@@ -64,6 +64,7 @@
 
 // --------------------4) Create a statement that will evaluate whether each number in an array is even or odd. Use the test variable provided below. Expected output: "odd" "even" "odd" "even" "odd" "even"
 // This one I'm not too sure what to do so I'm going to refer to my notes and instructor notes.
+// I'm completely lost.
 
 // const myArray = [13, 34, 5, 10, 27, 42]
 //
@@ -72,6 +73,7 @@
 // }
 
 // --------------------5) Create a function that takes in a set of any two numbers and subtracts the smaller number from the larger number using the sets of test variables provided below. Expected output: 42, 3
+// I had some idea what to do. I assume this is supposed to be a function, but I'm not sure how to type it out.
 
 // Set one:
 const number1 = 58
