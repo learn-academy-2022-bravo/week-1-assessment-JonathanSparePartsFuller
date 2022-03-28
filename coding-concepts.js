@@ -7,10 +7,10 @@
 
 // --------------------INSTRUCTOR EXAMPLE: What will this log?
 const colors = ["tangerine", "magenta", "lilac", "daffodil"]
-// console.log(colors.push("indigo"))
+console.log(colors.push("indigo"))
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer 5
+// b) Verify and explain: .push adds a value to the end of the array and returns index
 
 
 // --------------------1) What will this log?
@@ -44,10 +44,10 @@ const index = 1
 // --------------------4) What will this log?
 
 const weekendDays = ["saturday", "sunday"]
-console.log(weekendDays[0].toUpperCase())
+// console.log(weekendDays[0].toUpperCase())
 
 // a) Your answer: It will uppercase both strings
-// b) Verify and explain: toUpperCase uppercases all characters in a string
+// b) Verify and explain: My understanding was .toUpperCase would uppercase all strings, but in this case it only uppercased "saturday" and I'm not sure why.
 
 
 // --------------------5) What will this log?

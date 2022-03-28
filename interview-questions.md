@@ -17,7 +17,7 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
   <!-- Your answer: Git is a free software to assist developers with coding, while Github is a website developers and other coders use to upload their work to in a similar way to a social media app -->
 
-  Researched answer:
+  <!-- Researched answer: Git is an open-source tool developers install locally to manage source code, while GitHub is an online service to which developers who use Git can connect and upload or download resources. -->
 
 
 
@@ -25,7 +25,7 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
   <!-- Your answer: I'm sorry the answer is right on the tip of my tongue I just can't recall it at this moment. -->
 
-  Researched answer:
+  <!-- Researched answer: || and && -->
 
 
 
@@ -33,7 +33,7 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
   <!-- Your answer: The index is number line in the code for which characters are placed. A value on the other hand is a character, number, string, ect. that defines the code. -->
 
-  Researched answer:
+  <!-- Researched answer: It contains the position of a regular expression match within a string. JavaScript values are the values that comprise values like Booleans, Strings, arrays, numbers, etc. -->
 
 
 
@@ -41,7 +41,7 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
   <!-- Your answer: Iteration is when you run the same code over and over again until you reach the desired goal of the code -->
 
-  Researched answer:
+  <!-- Researched answer:Each time the computer runs through a loop, it's referred to as an iteration. -->
 
 
 
@@ -49,7 +49,7 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
   <!-- Your answer: Proper pair programming techniques would be something like having one person type code at a time. That allows one person to focus on just typing, while the other person assisting them can tell them what code to write. This allows the pair to catch each others mistakes during the process. Another would be 25-30 minute rotations where the pair would switch between the driver and navigator. This prevents burn outs in people, along with taking a 5-10 minute break every so often. -->
 
-  Researched answer:
+  <!-- Researched answer:Pair programming is an agile software development technique in which two programmers work together at one workstation. One, the driver, writes code while the other, the observer or navigator, reviews each line of code as it is typed in. The two programmers switch roles frequently.  -->
 
 
 
@@ -57,12 +57,12 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
 Research and define the following terms to the best of your ability.
 
-1. Higher Order Functions:
+1. Higher Order Functions: Takes a function as an argument and returns  a function
 
-2. Jest:
+2. Jest: Used for writing automation scenario
 
-3. Objects:
+3. Objects: A property that has a defined characteristic to it
 
-4. Method:
+4. Method: A property of a function that stores or contains a function definition
 
-5. Classes:
+5. Classes: A blueprint for creating an object

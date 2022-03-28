@@ -63,11 +63,13 @@
 // console.log(currentCohort.reverse());
 
 // --------------------4) Create a statement that will evaluate whether each number in an array is even or odd. Use the test variable provided below. Expected output: "odd" "even" "odd" "even" "odd" "even"
+// This one I'm not too sure what to do so I'm going to refer to my notes and instructor notes.
 
-
-
-const myArray = [13, 34, 5, 10, 27, 42]
-
+// const myArray = [13, 34, 5, 10, 27, 42]
+//
+// if(myArray = 13, 5, 27,){
+//   console.log(myArray === Odd)
+// }
 
 // --------------------5) Create a function that takes in a set of any two numbers and subtracts the smaller number from the larger number using the sets of test variables provided below. Expected output: 42, 3
 
@@ -80,5 +82,6 @@ const number3 = 27
 const number4 = 24
 
 const totalNums = (num1, num2) => {
-  return 
+  return `${num1} - ${num2}`
 }
+console.log(totalNums(100, 58))
