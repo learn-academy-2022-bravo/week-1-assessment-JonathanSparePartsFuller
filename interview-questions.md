@@ -57,7 +57,7 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
 Research and define the following terms to the best of your ability.
 
-1. Higher Order Functions: Takes a function as an argument and returns  a function
+1. Higher Order Functions: Takes a function as an argument and returns  a function.
 
 2. Jest: Used for writing automation scenario
 

@@ -46,7 +46,7 @@ const index = 1
 const weekendDays = ["saturday", "sunday"]
 // console.log(weekendDays[0].toUpperCase())
 
-// a) Your answer: It will uppercase both strings
+// a) Your answer: It will uppercase both strings.
 // b) Verify and explain: My understanding was .toUpperCase would uppercase all strings, but in this case it only uppercased "saturday" and I'm not sure why.
 
 
