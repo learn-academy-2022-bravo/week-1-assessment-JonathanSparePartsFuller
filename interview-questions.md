@@ -57,12 +57,12 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
 Research and define the following terms to the best of your ability.
 
-1. Higher Order Functions: Takes a function as an argument and returns  a function.
+1. Higher Order Functions: Can be used for creating iterations by calling upon arrays
 
-2. Jest: Used for writing automation scenario
+2. Jest: Used for testing code
 
-3. Objects: A property that has a defined characteristic to it
+3. Objects: Collection of data types that can hold large amounts data
 
-4. Method: A property of a function that stores or contains a function definition
+4. Method: A function that belongs to an object which can use different data types like strings
 
-5. Classes: A blueprint for creating an object
+5. Classes: A blueprint for creating an object with a special structure or to create a object template
