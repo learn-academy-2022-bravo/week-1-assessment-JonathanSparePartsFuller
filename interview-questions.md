@@ -49,7 +49,7 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
   <!-- Your answer: Proper pair programming techniques would be something like having one person type code at a time. That allows one person to focus on just typing, while the other person assisting them can tell them what code to write. This allows the pair to catch each others mistakes during the process. Another would be 25-30 minute rotations where the pair would switch between the driver and navigator. This prevents burn outs in people, along with taking a 5-10 minute break every so often. -->
 
-  <!-- Researched answer:Pair programming is an agile software development technique in which two programmers work together at one workstation. One, the driver, writes code while the other, the observer or navigator, reviews each line of code as it is typed in. The two programmers switch roles frequently.  -->
+  <!-- Researched answer:Pair programming is when two programmers work together at one computer or two computers if they work remotely. One person is the driver, who writes code while the other, the navigator, reviews each line of code as it is typed in. The two programmers switch roles frequently while also taking breaks to prevent burn out.  -->
 
 
 
@@ -59,7 +59,7 @@ Research and define the following terms to the best of your ability.
 
 1. Higher Order Functions: Can be used for creating iterations by calling upon arrays
 
-2. Jest: Used for testing code
+2. Jest: Used for testing code inside a program. Some what similiar to console.log but more detailed.
 
 3. Objects: Collection of data types that can hold large amounts data
 
